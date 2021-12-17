@@ -1,6 +1,6 @@
 <div align="center">
 
-# Simple Discord.js Slash Commands For You
+ <b> Simple Discord.js Slash Commands For You </b>
 </div>
 
 <div align="center">
