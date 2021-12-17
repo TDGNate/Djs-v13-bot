@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h3 style="Arial"> NPM Install  </h3>
+<h3 style="rajdhani"> NPM Install </h3>
 </div>
 
 # You Need : 
