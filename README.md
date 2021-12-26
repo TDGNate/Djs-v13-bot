@@ -26,9 +26,9 @@
 <div dir="ltr">
 
 ```javascript
-let token = 'TOKEN';
-let guild_ID = 'SERVER_ID';
-let client_ID = 'BOT_ID';
+TOKEN=ODg5MTIxNTU2OTM1MDkwMjA4.YUco-g.SqWu8nSN-FTujuKLVI9HOJwPtOI
+CLIENT_ID=889121556935090208
+GUILD_ID=522406130543230987
 ```
 
 </div>
