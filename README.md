@@ -36,9 +36,3 @@ let client_ID = 'BOT_ID';
 # Har Bar Ke Command Ro Update Mikonid :
 <div> <b> File Register-Commands.bat Ro Baz Konid </b> </div>
 <div> <b> Va Baray Run Shodan Bot File Start.bat Ro Baz Konid </b> </div>
-
-
-# Git Clone
-```
-git clone https://github.com/pyr33x/discord/slash/commands
-```
