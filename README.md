@@ -1,4 +1,9 @@
 <div align="center">
+<img src="https://cdn.discordapp.com/attachments/844973689292193824/931628180819804190/DJS.jpg">
+</div>
+
+
+<div align="center">
 
  # Simple Djs v13 Bot For You <3
 </div>
