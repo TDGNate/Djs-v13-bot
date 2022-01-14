@@ -30,7 +30,7 @@
 
 <div dir="ltr">
  
- <h1> Leave The Information </h1> / <h2> 'Token = Your Bot Token' - 'Client ID = Your Bot ID' - 'Guild ID = Your Server ID'
+ <p> Leave The Information  /  'Token = Your Bot Token' - 'Client ID = Your Bot ID' - 'Guild ID = Your Server ID' </p>
 
 ```javascript
 TOKEN=
