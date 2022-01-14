@@ -12,13 +12,13 @@
 * [Discord.js](https://www.npmjs.com/package/discord.js)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 * [Mongoose](https://www.npmjs.com/package/mongoose)
-* [Visual Studio Code](https://code.visualstudio.com/download) (  **Ye Code Editor K  Man Az VSCode Estefade Mikonam**  )
+* [Visual Studio Code](https://code.visualstudio.com/download) (  Need A Code Editor, I'm Use VSCode  )
 
 
 
 <div  align="center">
 
- <b> File .env.example Esmesh Ro Bayad Be File .env Taqir Bedid </b>
+ <b> Change .env.example File To .Env </b>
  </div>
 
 
@@ -33,6 +33,6 @@ GUILD_ID=
 
 </div>
 
-# Har Bar Ke Command Ro Update Mikonid :
-<div> <b> File Register-Commands.bat Ro Baz Konid </b> </div>
-<div> <b> Va Baray Run Shodan Bot File Start.bat Ro Baz Konid </b> </div>
+# Every Time You Update The Commands:
+<div> <b> Open Register-Commands.bat For Register Your Commands </b> </div>
+<div> <b> Open App.js For Launching Bot </b> </div>
