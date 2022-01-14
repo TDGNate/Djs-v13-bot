@@ -1,10 +1,10 @@
 <div align="center">
 
- # Simple Discord.js Slash Commands For You
+ # Simple Djs v13 Bot For You <3
 </div>
 
 <div align="center">
-<h3 style="rajdhani">    NPM Install     </h3>
+<h3 style="rajdhan"> Open Your Console, Type ' npm i ' For Installing NPM Packages </h3>
 </div>
 
 # You Need : 
