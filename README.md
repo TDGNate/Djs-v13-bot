@@ -5,7 +5,7 @@
 
 <div align="center">
 
- # Simple Djs v13 Bot For You <3
+ # Simple Djs v13 Bot Open Source ✨
 </div>
 
 <div align="center">
