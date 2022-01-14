@@ -12,7 +12,7 @@ module.exports = {
 				const embed = new MessageEmbed()
         .setColor('#0053ff')
         .setTitle(' B In Qesmat Migan ( Title ) ')
-        .setURL('https://github.com/Pyr33x/Discord-Slash-Commands')
+        .setURL('https://github.com/Pyr33x/Djs-v13-bot')
         .setAuthor( ' B Inja Ham Author Migan  ',' https://cdn.discordapp.com/attachments/874992162549420132/920559650389237791/8576-raccoon.png ')
         .setDescription(' Inja Ham K Description e ', false)
         .setThumbnail('https://cdn.discordapp.com/attachments/874992162549420132/920559650389237791/8576-raccoon.png')
