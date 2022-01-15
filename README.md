@@ -8,9 +8,6 @@
  # Simple Djs v13 Bot Open Source ✨
 </div>
 
-<div align="center">
-<h3 style="rajdhan"> Open Your Console, Type ' npm i ' For Installing NPM Packages </h3>
-</div>
 
 # You Need : 
 * [Node.js v16+](https://nodejs.org/en/download/releases/)
@@ -18,6 +15,11 @@
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 * [Mongoose](https://www.npmjs.com/package/mongoose)
 * [Visual Studio Code](https://code.visualstudio.com/download) (  Need A Code Editor, I'm Use VSCode  )
+
+
+<div align="center">
+<h3 style="rajdhan"> Open Your Console, Type ' npm i ' For Installing NPM Packages </h3>
+</div>
 
 
 
