@@ -25,7 +25,7 @@
 
 <div  align="center">
 
- <b> Change .env.example File To .Env </b>
+ <b> Change .env.example File Name To .Env </b>
  </div>
 
 
