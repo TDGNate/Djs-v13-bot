@@ -29,7 +29,7 @@ const collector = interaction.channel.createMessageComponentCollector({ filter, 
 
 collector.on('collect', async i => {
     if (i.customId === 'primary') {
-        await i.update({ephemeral: true, content: ' To Roye Dokme ** Click ** Krdi 😳 ', components: [] });
+        await i.update({ephemeral: true, content: ' You Clicked The **Button** 😳 ', components: [] });
     }
 });
 
