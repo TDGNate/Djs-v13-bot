@@ -45,6 +45,6 @@ GUILD_ID=
 
 </div>
 
-# Every time you update the commands:
+<h3> Every time you update the commands: </h3>
 <div> <b> Open Register-Commands.bat For Register Your Commands </b> </div>
 <div> <b> Open App.js For Launching Bot </b> </div>
