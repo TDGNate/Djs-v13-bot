@@ -16,16 +16,19 @@
 * [Mongoose](https://www.npmjs.com/package/mongoose)
 * [Visual Studio Code](https://code.visualstudio.com/insiders/) ( You Need A Code Editor, I'm Use VSCode Insiders )
 
+</br>
 
 <div align="center">
-<h3 style="rajdhan"> Open Your Console, Type ' npm i ' For Installing NPM Packages </h3>
+<h3 style="rajdhan"> Open your console, type ' npm i ' for installing NPM Packages </h3>
 </div>
 
+</br>
+</br>
 
 
 <div  align="center">
 
- <b> Change .env.example File Name To .env </b>
+ <b> change .env.example file name to .env </b>
  </div>
 
 
@@ -42,6 +45,6 @@ GUILD_ID=
 
 </div>
 
-# Every Time You Update The Commands:
+# Every time you update the commands:
 <div> <b> Open Register-Commands.bat For Register Your Commands </b> </div>
 <div> <b> Open App.js For Launching Bot </b> </div>
