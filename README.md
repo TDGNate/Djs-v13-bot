@@ -14,7 +14,7 @@
 * [Discord.js](https://www.npmjs.com/package/discord.js)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 * [Mongoose](https://www.npmjs.com/package/mongoose)
-* [Visual Studio Code](https://code.visualstudio.com/download) (  Need A Code Editor, I'm Use VSCode  )
+* [Visual Studio Code](https://code.visualstudio.com/insiders/) ( You Need A Code Editor, I'm Use VSCode Insiders )
 
 
 <div align="center">
