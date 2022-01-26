@@ -25,14 +25,14 @@
 
 <div  align="center">
 
- <b> Change .env.example File Name To .Env </b>
+ <b> Change .env.example File Name To .env </b>
  </div>
 
 
 
 <div dir="ltr">
  
- <p> Leave The Information  /  'Token = Your Bot Token' - 'Client ID = Your Bot ID' - 'Guild ID = Your Server ID' </p>
+ <p> Leave The Information  /  Token = 'Your Bot Token' - Client ID = 'Your Bot ID' - Guild ID = 'Your Server ID' </p>
 
 ```javascript
 TOKEN=
