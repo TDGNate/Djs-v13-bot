@@ -44,6 +44,8 @@ GUILD_ID=
 ```
 
 </div>
+</br>
+</br>
 
 <h3> Every time you update the commands: </h3>
 <div> <b> Open Register-Commands.bat For Register Your Commands </b> </div>
