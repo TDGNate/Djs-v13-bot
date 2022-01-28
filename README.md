@@ -35,7 +35,7 @@
 
 <div dir="ltr">
  
- <p> Leave The Information  /  Token = 'Your Bot Token' - Client ID = 'Your Bot ID' - Guild ID = 'Your Server ID' </p>
+ <p> Write you're bot information  /  Token = 'Your Bot Token' - Client ID = 'Your Bot ID' - Guild ID = 'Your Server ID' </p>
 
 ```javascript
 TOKEN=
