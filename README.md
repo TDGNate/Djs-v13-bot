@@ -5,7 +5,7 @@
 
 <div align="center">
 
- # Simple Djs v13 Bot Open Source ✨
+ # Simple Djs v13 Bot [ Open Source ]
 </div>
 
 
@@ -19,7 +19,7 @@
 </br>
 
 <div align="center">
-<h3 style="rajdhan"> Open your console, type ' npm i ' for installing NPM Packages </h3>
+<h3> Open your console, type ' npm i ' for installing NPM Packages </h3>
 </div>
 
 </br>
