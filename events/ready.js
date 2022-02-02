@@ -4,6 +4,6 @@ module.exports = {
 	execute(client) {
 			global.servers = client.guilds.cache.size
 			console.log(`${client.user.tag} Onlined! `);
-			client.user.setActivity(` Pyrex :) `, { type: "WATCHING"})
+			client.user.setActivity(` Pyr33x `, { type: "WATCHING"})
 	},
 };
