@@ -2,11 +2,8 @@
 <img src="https://cdn.discordapp.com/attachments/844973689292193824/931628180819804190/DJS.jpg">
 </div>
 
-
 <div align="center">
- # Simple Djs v13 Bot [ Open Source ]
-</div>
-
+ # Simple Djs v13 Bot ( Not Document ) For You
 
 # You Need : 
 * [Node.js v16+](https://nodejs.org/en/download/releases/)
