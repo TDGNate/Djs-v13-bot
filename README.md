@@ -4,7 +4,6 @@
 
 
 <div align="center">
-
  # Simple Djs v13 Bot [ Open Source ]
 </div>
 
