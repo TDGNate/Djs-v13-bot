@@ -2,7 +2,7 @@ const { Client, Intents, Collection } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 const fs = require('fs');
 
-//  Get Data .env
+//  Get data from .env config file
 require("dotenv").config();
 let token = process.env.TOKEN
 
@@ -10,7 +10,7 @@ let token = process.env.TOKEN
 
 client.commands = new Collection();
 
-// Commands Folder
+// Commands folder
 
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
@@ -35,7 +35,7 @@ client.on('interactionCreate', async interaction => {
 	}
 });
 
-// Events Data
+// Get events data
 
 const eventFiles = fs.readdirSync('./events').filter(file => file.endsWith('.js'));
 
@@ -48,5 +48,5 @@ for (const file of eventFiles) {
 	}
 };
 
-// Login With Token ( .Env Data File )
+// Login the bot with token ( token in .env config file )
 client.login(token);
