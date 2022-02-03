@@ -1,15 +1,15 @@
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 const fs = require('fs');
-//  Add .Env Data File To Code
+//  Add .env data file for get bot information
 require("dotenv").config();
 
-// Get Data As .Env File
+// Get data from .env config file
 let clientID = process.env.CLIENT_ID
 let token = process.env.TOKEN
 let guildID = process.env.GUILD_ID
 
-// Def In Commands Folder
+// Def in commands folder
 const commands = [];
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
