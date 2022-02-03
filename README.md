@@ -1,4 +1,5 @@
-Based on [Discord Djs v13 Bot](https://github.com/Pyr33x/Djs-v13-bot)
+Based on [Djs v13 Bot](https://github.com/Pyr33x/Djs-v13-bot)
+Do you need help? [Join our support server](https://discord.gg/jfjytZtbWv)
 
 # You need:
 * [Node.js v16+](https://nodejs.org/en/download/releases/)
