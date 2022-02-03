@@ -1,4 +1,5 @@
 Based on [Djs v13 Bot](https://github.com/Pyr33x/Djs-v13-bot)
+</br>
 Do you need help? [Join our support server](https://discord.gg/jfjytZtbWv)
 
 # You need:
