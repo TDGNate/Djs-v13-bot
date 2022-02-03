@@ -32,7 +32,10 @@
 
 <div dir="ltr">
  
- <p> Write you're bot information  /  Token = 'Your Bot Token' - Client ID = 'Your Bot ID' - Guild ID = 'Your Server ID' </p>
+Write you're bot information
+- `Token ='bot token'`
+- `Client ID = 'Your bot id'`
+- `Guild ID = 'Your server id ( guild commands )'`
 
 ```javascript
 TOKEN=
@@ -45,6 +48,6 @@ GUILD_ID=
 </br>
 
 
-<div align="center">
- <p> And finally open you're console and type <em> <strong> node index.js </em> <strong> </p>
- <div>
+Run the bot:
+- `node register-command.js`
+- `node .`
