@@ -5,8 +5,8 @@ const { Client } = require('discord.js');
 
 module.exports = {
     data: new SlashCommandBuilder()
-    .setName('avatar')
-		.setDescription('get member avatars')
+        .setName('avatar')
+        .setDescription('get member avatars')
         .addUserOption(o => o
         .setName('mention-user')
         .setDescription('Mention a user for get avatars of it')
@@ -14,7 +14,7 @@ module.exports = {
       
 
         async execute(interaction) {
-            const user = interaction.options.getUser ('mention-user') || interaction.user
+        const user = interaction.options.getUser ('mention-user') || interaction.user
            
              const avatar = new MessageEmbed()
             .setAuthor(" You're avatar is ready ;) " )
