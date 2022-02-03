@@ -1,16 +1,13 @@
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/844973689292193824/931628180819804190/DJS.jpg">
-</div>
-
 Based on [Discord Djs v13 Bot](https://github.com/Pyr33x/Djs-v13-bot)
 
-# You Need : 
+# You need:
 * [Node.js v16+](https://nodejs.org/en/download/releases/)
 * [Discord.js](https://www.npmjs.com/package/discord.js)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 * [Mongoose](https://www.npmjs.com/package/mongoose)
 * [Visual Studio Code](https://code.visualstudio.com/insiders/) ( You Need A Code Editor, I'm Use VSCode Insiders )
 
+</br>
 </br>
 
 <b> Don't forget, change .env.example file type to </b> `.env`
