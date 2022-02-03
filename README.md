@@ -20,7 +20,7 @@
 </br>
 </br>
 
-Open you're console and type
+<b> Open you're console and type </b>
 - `npm install - for install npm package file's `
 
 </br>
@@ -31,7 +31,7 @@ Open you're console and type
 
 <div dir="ltr">
  
-Write you're bot information
+</b> Write you're bot information </b>
 - `Token ='bot token'`
 - `Client ID = 'Your bot id'`
 - `Guild ID = 'Your server id ( guild commands )'`
@@ -47,6 +47,6 @@ GUILD_ID=
 </br>
 
 
-Run the bot:
+<b> Run the bot</b> :
 - `node register-command.js`
 - `node .`
