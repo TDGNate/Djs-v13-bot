@@ -3,9 +3,6 @@
 </div>
 
 
-<div align="center"> # Simple Djs v13 Bot ( Not Document ) For You </div>
-
-
 # You Need : 
 * [Node.js v16+](https://nodejs.org/en/download/releases/)
 * [Discord.js](https://www.npmjs.com/package/discord.js)
