@@ -2,6 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/844973689292193824/931628180819804190/DJS.jpg">
 </div>
 
+Based on [Discord Djs v13 Bot](https://github.com/Pyr33x/Djs-v13-bot)
 
 # You Need : 
 * [Node.js v16+](https://nodejs.org/en/download/releases/)
