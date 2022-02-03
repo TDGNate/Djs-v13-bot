@@ -5,11 +5,11 @@ const { SlashCommandBuilder } = require('@discordjs/builders');
 
 module.exports = {
     data: new SlashCommandBuilder()
-    .setName('credits')
-		.setDescription('Details About The Bot Contributors'),
-    async execute(interaction) {
-				// Info / Embed
-				const embed = new MessageEmbed()
+         .setName('credits')
+         .setDescription('Details About The Bot Contributors'),
+         async execute(interaction) {
+	// Info / Embed
+	const embed = new MessageEmbed()
         .setColor('#FFFFFF')
         .setTitle(' This s ( title ) ')
         .setURL('https://github.com/Pyr33x/Djs-v13-bot')
