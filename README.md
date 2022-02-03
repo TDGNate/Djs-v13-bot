@@ -31,7 +31,7 @@
 
 <div dir="ltr">
  
-</b> Write you're bot information </b>
+<b> Write you're bot information </b>
 - `Token ='bot token'`
 - `Client ID = 'Your bot id'`
 - `Guild ID = 'Your server id ( guild commands )'`
