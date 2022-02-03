@@ -9,7 +9,7 @@ module.exports = {
 		.setDescription('get member avatars')
         .addUserOption(o => o
         .setName('mention-user')
-        .setDescription('Member Ro Baray Fereftan Avataresh Mention Kn')
+        .setDescription('Mention a user for get avatars of it')
         .setRequired(false)),
       
 
@@ -17,9 +17,9 @@ module.exports = {
             const user = interaction.options.getUser ('mention-user') || interaction.user
            
              const avatar = new MessageEmbed()
-            .setAuthor(" Avatar Shoma Amadas 😳 " )
+            .setAuthor(" You're avatar is ready ;) " )
             .setImage(user.displayAvatarURL({format: "png", size: 2048}))
-            .setColor("#ff000")
+            .setColor("#FFFFFF")
     
     
             return interaction.reply({ embeds: [avatar] });
