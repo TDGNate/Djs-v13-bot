@@ -44,6 +44,7 @@ GUILD_ID=
 </br>
 </br>
 
-<h3> Every time you update the commands: </h3>
-<div> <b> Open Register-Commands.bat For Register Your Commands </b> </div>
-<div> <b> Open App.js For Launching Bot </b> </div>
+
+<div align="center">
+ <p> And finally open you're console and type <em> <strong> node index.js </em> <strong> </p>
+ <div>
