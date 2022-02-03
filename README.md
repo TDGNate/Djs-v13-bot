@@ -15,18 +15,17 @@
 
 </br>
 
-<div align="center">
-<h3> Open your console, type ' npm i ' for installing NPM Packages </h3>
-</div>
+<b> Don't forget, change .env.example file type to </b> `.env`
 
 </br>
 </br>
 
+Open you're console and type
+- `npm install - for install npm package file's `
 
-<div  align="center">
+</br>
+</br>
 
- <b> change .env.example file name to .env </b>
- </div>
 
 
 
