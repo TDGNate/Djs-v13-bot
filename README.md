@@ -33,9 +33,9 @@ Do you need help? [Join our support server](https://discord.gg/jfjytZtbWv)
 <div dir="ltr">
  
 <b> Write you're bot information </b>
-- `Token ='bot token'`
-- `Client ID = 'Your bot id'`
-- `Guild ID = 'Your server id ( guild commands )'`
+- `Token ='Bot Token'`
+- `Client ID = 'Your Bot Client ID'`
+- `Guild ID = 'Ypur Server ID (" For Guild Commands ")'`
 
 ```javascript
 TOKEN=
