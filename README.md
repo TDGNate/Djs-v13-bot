@@ -49,5 +49,5 @@ GUILD_ID=
 
 
 <b> Run the bot</b> :
-- `node register-command.js - For register commands in api`
+- `node register-command.js - For deploy commands in api`
 - `node app.js`
