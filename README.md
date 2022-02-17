@@ -50,4 +50,4 @@ GUILD_ID=
 
 <b> Run the bot</b> :
 - `node register-command.js - For deploy commands in api`
-- `node app.js`
+- `node app.js - run the bot`
