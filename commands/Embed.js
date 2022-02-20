@@ -5,8 +5,8 @@ const { SlashCommandBuilder } = require('@discordjs/builders');
 
 module.exports = {
     data: new SlashCommandBuilder()
-         .setName('credits')
-         .setDescription('Details About The Bot Contributors'),
+         .setName('embed')
+         .setDescription('simple-embed'),
          async execute(interaction) {
 	// Info / Embed
 	const embed = new MessageEmbed()
