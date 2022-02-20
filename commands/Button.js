@@ -37,6 +37,6 @@ collector.on('end', collected => console.log(`Collected ${collected.size} items`
 
 
         // Send Button, Button
-		return interaction.reply({ephemeral: true, content: ' Roye Dokme ** Click ** Kn 😳 ', components: [row]});
+		return interaction.reply({ephemeral: true, content: ' Click The Button 😳 ', components: [row]});
 	},
 };
